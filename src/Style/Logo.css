@@ -1,0 +1,77 @@
+.image{
+    height: 20%;
+    width: 20%;
+    float: left;
+}
+.btn{
+    border-radius: 15px;
+}
+#Explore{
+    background-color: #b6a3ff;
+}
+.downImage{
+    height: 10%;
+    width: 10%;
+}
+.JobPost{
+    background-color:#283026
+}
+.textcolor{
+    color: #F2AA77;
+}
+.image1{
+    width: 450px;
+    border-radius: 50%;
+}
+.text{
+    color: rgb(124, 74, 74);
+}
+.leftarrow{
+    width: 20px;
+}
+.imageslider{
+    background-color: #b6a3ff;
+}
+.nextBtn{
+    padding: 0;
+border: none;
+background: none;
+float: right;
+}
+.pretBtn{
+padding: 0;
+border: none;
+background: none;
+}
+.createImage,.learnimage{
+    width: 450px;
+}
+.joinnow:hover{
+    text-decoration: underline;
+    border-radius: 9px;
+    background-color: rgb(215, 222, 233);
+}
+Form{
+    align-self: center;
+}
+.signup{
+    background-color:rgb(239, 241, 245) ;
+}
+.para{
+    font-size: 12px;
+    text-align: center;
+}
+span:hover{
+    text-decoration: underline;
+}
+.forgot-password:hover{
+    text-decoration: underline;
+    border-radius: 9px;
+    background-color: rgb(215, 222, 233);
+    width: 48%;
+}
+.forgotback:hover{
+    text-decoration: underline;
+    border-radius: 9px;
+    background-color: rgb(215, 222, 233);
+}
